@@ -1,8 +1,6 @@
 pillow
 affine
-bs4
-colour
-cv2
+beautifulsoup4
 folium
 geopandas
 keplergl
