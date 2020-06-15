@@ -14,3 +14,4 @@ Slides from a talk on this project from the Edina Geoforum 2020 can be found [he
 Please get in touch if you want to chat about PV detection!
 
 This project was inspired by [Open Climate Fix](https://openclimatefix.org/), a non-profit org who use computers to fight climate change.
+.
