@@ -13,5 +13,5 @@ rasterio
 scipy
 seaborn
 shapely
-skimage
+scikit-image
 sklearn
