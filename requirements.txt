@@ -6,3 +6,9 @@ numpy
 pandas
 pyproj
 seaborn
+colour
+shapely
+tqdm
+rasterio
+cv2
+scikit-image
