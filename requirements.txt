@@ -2,7 +2,6 @@ pillow
 affine
 folium
 geopandas
-keplergl
 matplotlib
 numpy
 pandas
@@ -13,4 +12,3 @@ scipy
 seaborn
 shapely
 scikit-image
-sklearn
