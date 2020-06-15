@@ -10,4 +10,3 @@ pysal
 rasterio
 seaborn
 shapely
-scikit-image
