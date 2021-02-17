@@ -1,4 +1,4 @@
-# Energy Systems and Data Analytics MSc 2018/19 - Dissertation Project
+# UCL Energy Systems and Data Analytics MSc 2018/19 - Dissertation Project
 
 This repository contains an **incomplete** set of notebooks and code from my MSc dissertation project, 'Identifying solar photovoltaic arrays from aerial imagery', supervised by [Professor Paul Ruyssevelt](https://www.ucl.ac.uk/bartlett/energy/prof-paul-ruyssevelt).
 
